@@ -1,0 +1,10 @@
+table{
+    border:2px solid gray;
+    border-spacing: 0;
+}
+td{
+    width:6vh;
+    height:6vh;
+    text-align: center;
+    cursor: pointer;
+}
